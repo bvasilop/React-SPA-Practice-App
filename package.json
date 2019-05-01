@@ -1,8 +1,8 @@
 {
-  "name": "expensify",
+  "name": "React-SPA-Practice-App",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/bvasilop/The-Complete-React-Web-Developer-Course-with-Redux-",
+  "repository": "https://github.com/bvasilop/React-SPA-Practice-App",
   "author": "Bill Vasilopoulos",
   "license": "MIT",
   "scripts": {

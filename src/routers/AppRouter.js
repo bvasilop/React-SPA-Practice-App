@@ -5,6 +5,7 @@ import Home from '../components/Home';
 import PortfolioPage from '../components/PortfolioPage';
 import Item from '../components/Item';
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 import NotFoundPage from '../components/NotFoundPage';
 
 const AppRouter = () => (
@@ -18,6 +19,7 @@ const AppRouter = () => (
 			<Route path="/contact" component={Contact} />
 			<Route component={NotFoundPage} />
 		</Switch>
+        <Footer />
 	</div>
 	</BrowserRouter>
 );
